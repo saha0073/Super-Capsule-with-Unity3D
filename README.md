@@ -1,6 +1,6 @@
 # Super-Capsule-with-Unity3D
 
-Super Capsule game using Unity3D, C#.
+Want to build the game Super Capsule using Unity3D, C#? Then here it's
 
 ![title-pic](https://github.com/saha0073/Super-Capsule-with-Unity3D/blob/main/Capture.PNG)
 
